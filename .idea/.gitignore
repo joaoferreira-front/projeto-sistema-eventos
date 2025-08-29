@@ -1,0 +1,11 @@
+# Arquivos compilados do Java
+*.class
+
+# Pasta de output do IntelliJ
+/out/
+
+# Arquivos de configuração do IntelliJ
+.idea/
+*.iml# Default ignored files
+/shelf/
+/workspace.xml
